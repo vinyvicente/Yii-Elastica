@@ -1,0 +1,12 @@
+{
+    "name": "vinicius/yii-elastic",
+    "authors": [
+        {
+            "name": "Vinicius",
+            "email": "vinyvicente@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
